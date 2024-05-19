@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg">
+    <img alt=Phoenix-MD height="300" src="https://iili.io/J6jbQ72.md.jpg">
    
 </a> 
     
@@ -22,7 +22,7 @@ Phoenix-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/bondlegends/blvckzer-mudiyan/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK BOND LEGENDS MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/bondlegends/blvckzer-mudiyan/fork"><img title="blvckzer-mudiyan" src="https://img.shields.io/badge/FORK BOND LEGENDS MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
