@@ -22,7 +22,7 @@ BOND LEGENDS Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/bondlegends/blvckzer-mudiyan.git/fork"><img title="BOND LEGENDS" src="https://img.shields.io/badge/FORK BONDLEGENDS-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
