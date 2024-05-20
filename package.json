@@ -1,5 +1,5 @@
 {
-  "name": "Phoenix-MD",
+  "name": "BOND LEGENDS-MD",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
@@ -12,7 +12,7 @@
    "termux",
    "whatsapp",
    "MD",
-   "Phoenix-MD",
+   "BOND LEGENDS-MD",
    "WhatsApp-MD",
    "baileys-md",
    "wa-bot",
@@ -21,12 +21,12 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "BLVCKZER-MUDIYAN",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "abhishek-ytube": "^1.0.0",
+    "bondlegends-ytube": "^1.0.0",
     "awesome-phonenumber": "^3.4.0",
     "bitly": "^7.1.2",
     "browser-id3-writer": "^4.4.0",
@@ -93,10 +93,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/AbhishekSuresh2/Phoenix-MD.git"
+  "url": "git+https://github.com/bondlegends/blvckzer-mudiyan.git"
  },
  "bugs": {
-  "url": "https://github.com/AbhishekSuresh2/Phoenix-MD/issues"
+  "url": "https://github.com/bondlegends/blvckzer-mudiyan/issues"
  },
- "homepage": "https://github.com/AbhishekSuresh2/Phoenix-MD#readme"
+ "homepage": "https://github.com/bondlegends/blvckzer-mudiyan-MD#readme"
 }
