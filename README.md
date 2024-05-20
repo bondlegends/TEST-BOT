@@ -29,10 +29,10 @@ Fork The Repo
 ##### Use A United States VPN To Solve Qr/Pairing Not Connecting Problem
 <a href="https://phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="bondlegends Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
-## Phoenix-MD Deploy Method
+## BOND LEGENDS-MD DEPLOY METHOD
 
 
-### Deploy Codespace
+## Deploy Codespace
 
 <a href="https://github.com/codespaces/new"><img title="BOND LEGENDS-MD Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
