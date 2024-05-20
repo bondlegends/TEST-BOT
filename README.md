@@ -13,7 +13,7 @@
 <a 
 
 ####  
-Phoenix-MD Multi Device Whatsapp Bot.
+bond legends-MD Multi Device Whatsapp Bot.
 ## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
 
 ***
