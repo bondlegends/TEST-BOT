@@ -38,7 +38,7 @@ Fork The Repo
 
 ### Codespace Tutorial
 
-<a href="https://youtu.be/ZSwJtaN0BUk?si=FOsYpMs4WbvBFCpY"><img title="BOND LEGENDS-MD Deploy CodeSpace" src="https://img.shields.io/badge/Codespace Tutorial-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
+<a href="test"><img title="BOND LEGENDS-MD Deploy CodeSpace" src="https://img.shields.io/badge/Codespace Tutorial-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 ### Deploy Heroku 
 
