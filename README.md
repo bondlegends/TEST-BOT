@@ -28,6 +28,7 @@ Fork The Repo
 
 ##### Use A United States VPN To Solve Qr/Pairing Not Connecting Problem
 
+<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
 ## BOND LEGENDS-MD DEPLOY METHOD
 
